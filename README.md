@@ -1,10 +1,9 @@
 # Adversarial neural cryptography
 Keras implementation of Adversarial Neural Cryptography 
 
-agent.py : Compiling and Optimizer
-
-train.py : Adversarial learning process
-
+agent.py : compiling and Optimizer
+train.py : adversarial learning process
+model.py : convolutional neural network architecture
 utils.py only contains the plot function
 
-model.py : Convolutional neural network architecture
+For more details, please check the article on our blog https://quantrack.github.io
